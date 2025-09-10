@@ -48,7 +48,7 @@ The second one is Get Questions, which gets the id, description being what the q
 
 The third one is Get UserQuestionRatings, this endpoint gets the question ratings by id of the user.
 
-The fourth one is Get UserQuestionRatingsTotal, this one was supposed to be used for the chartjs, but is no longer being used in the project, but it basically all the ratings entered by the user and compiles them into one whith a loop that adds them all up together.
+The fourth one is Get UserQuestionRatingsTotal, this one was supposed to be used for the chartjs, but is no longer being used in the project, but it basically all the ratings entered by the user and compiles them into one with a loop that adds them all up together.
 
 The fifth one is Add UserQuestionRatings, which allows the user to set the values of his ratings.
 
